@@ -9,7 +9,7 @@ Participants can explore how signal level variability changes with distance, fre
 
 All code is provide in Jupyter Notebooks. Please read along with the lessons, run all of the code, and analyze the plots and outputs.  
 
-The data and analysis in this tutorial was developed by M. Hollingsworth and D. Grunwald in "[An Evaluation of Mid-Band Signal Level Variability with 4G and 5G Phones]([https://its.ntia.gov/publications/3367.aspx](https://ieeexplore.ieee.org/document/10905005))," 2025, IEEE RWS.
+The data and analysis in this tutorial was developed by M. Hollingsworth and D. Grunwald in "[An Evaluation of Mid-Band Signal Level Variability with 4G and 5G Phones](https://ieeexplore.ieee.org/document/10905005)" 2025, IEEE RWS.
 
 ## To participate in the tutorial
 
